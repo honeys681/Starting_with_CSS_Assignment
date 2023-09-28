@@ -1,0 +1,10 @@
+/* External CSS - Styling for the .box class */
+.box {
+    background-color: rgb(179, 255, 0);
+    font-weight: bold;
+}
+
+/* External CSS - Styling for the h1 element */
+h1 {
+    color: green;
+}
